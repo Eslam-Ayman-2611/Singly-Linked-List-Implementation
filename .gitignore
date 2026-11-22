@@ -1,0 +1,12 @@
+.DS_Store
+Main
+Header
+*.o
+*.out
+*.exe
+*.dSYM/
+.vscode/
+.idea/
+Terminal.txt
+tempCodeRunnerFile.cpp
+Data_structure.zip
